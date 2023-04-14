@@ -4,6 +4,7 @@
   "description": "Red MonoChromic Theme",
   "publisher": "Sifting1234",
   "version": "1.0.0",
+  "icon": "images/Icon.png",
   "engines": {
     "vscode": "^1.77.0"
   },
