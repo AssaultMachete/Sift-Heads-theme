@@ -1,9 +1,9 @@
 {
-  "name": "Sift-Heads-theme",
-  "displayName": "Sift-Heads-Theme",
+  "name": "Sift-Heads-Theme1",
+  "displayName": "Sift Heads Theme",
   "description": "Red MonoChromic Theme",
   "publisher": "Sifting1234",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.77.0"
   },
