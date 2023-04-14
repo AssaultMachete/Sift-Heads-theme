@@ -2,7 +2,6 @@
 	"name": "Sift Heads Theme",
 	"colors": {
 		"foreground": "#ff3632",
-		"editor.background": "#0F0F0F",
 		"focusBorder": "#ff3632",
 		"selection.background": "#ff3632",
 		"scrollbar.shadow": "#00000000",
