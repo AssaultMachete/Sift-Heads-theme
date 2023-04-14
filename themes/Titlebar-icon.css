@@ -1,0 +1,6 @@
+.AssaultMachete-workbench .part.titlebar .window-appicon > .home-bar-icon-badge,
+.AssaultMachete-workbench .part.titlebar > .window-appicon:not(.codicon) {
+  background-image: url(Icon-sift.png);
+  background-repeat: no-repeat;
+  background-position: 50%;
+} 

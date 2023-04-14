@@ -1,0 +1,21 @@
+{
+  "name": "Sift-Heads-theme",
+  "displayName": "Sift-Heads-Theme",
+  "description": "Red MonoChromic Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sift Heads Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sift Heads Theme-color-theme.json"
+      }
+    ]
+  }
+}
