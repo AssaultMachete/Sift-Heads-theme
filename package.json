@@ -2,13 +2,24 @@
   "name": "Sift-Heads-theme",
   "displayName": "Sift-Heads-Theme",
   "description": "Red MonoChromic Theme",
-  "version": "0.0.1",
+  "publisher": "Sifting1234",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "keywords": [
+    "Theme",
+    "Dark",
+    "Red",
+    "Vscode"
+  ],
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AssaultMachete/Sift-Heads-theme"
+  },
   "contributes": {
     "themes": [
       {
